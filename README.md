@@ -1,12 +1,28 @@
-# Hey there! 👋🏼
-I'm **Hemanth Tenneti**, an enthusiast in design and intermediate programmer here to find ways to improve.
-Here's some things about me,
-- 📑 I'm an undergraduate Computer Science student.
-- ✨ Exploring ways to widen my knowledge and creative abilities. 
-- ⚙️ Python, & JS are languages I'm comfortable with.
-- 🪛 I also dabble in website making with HTML, & CSS. 
+## Hi, I’m Hemanth Tenneti 👋
 
-Fun fact, my interest in programming has stemmed from me wanting to create moderation bots for the chatapp, Discord. It has widened since with me wanting to further my knowledge due to my high-school projects.
-You can find some of them listed on my GitHub. And my enthusiasm in designing followed suit from my programming when I got into Figma.
+I’m an undergraduate **Computer Science & AI** student and a **backend-focused developer** with a strong interest in building scalable systems, automation, and thoughtfully designed products.
 
-### You can find out more about my projects [below](https://github.com/HemanthTenneti#you-can-find-out-more-about-my-projects-below-or-on-my-portfolio-page)
+My journey into programming began with creating **Discord moderation bots**, which later expanded into full-stack projects, backend systems, and product-driven development. Along the way, my interest in **design** naturally grew—leading me to tools like **Figma** and frontend frameworks to complement my engineering work.
+
+### What I work with
+- **Languages:** Python, JavaScript  
+- **Backend:** Node.js, Express, REST APIs, JWT, OAuth, MongoDB  
+- **Frontend:** Next.js, React, HTML, CSS  
+- **Automation:** Selenium, PyAutoGUI, Python scripting  
+- **Tools:** Git, GitHub, Linux, Postman  
+
+### Experience highlights
+- **Co-Founder (Product & Backend)** — *in.culcate*  
+  Built and supported backend workflows for an AI-powered storytelling platform, contributed to MVP delivery, and helped achieve incubation at ISB Hyderabad with a ₹5 Cr valuation.
+
+### Selected projects
+- **AdMiro – Advertisement Management System**  
+  A full-stack digital signage platform with multi-screen scheduling, real-time content rotation, secure authentication, and a Next.js dashboard.
+
+- **Classifieds Backend System**  
+  A scalable backend inspired by JustDial, featuring search, listings, authentication, and performance-focused design.
+
+I enjoy working at the intersection of **engineering, systems thinking, and design**, and I’m always exploring ways to build cleaner architectures and better developer experiences.
+
+🔗 GitHub: https://github.com/HemanthTenneti  
+🌐 Portfolio: https://10eti.me
