@@ -1,4 +1,4 @@
-## Hi, I’m Hemanth Tenneti 👋
+## Hi, I’m Hemanth Tenneti!
 
 I’m an undergraduate **Computer Science & AI** student and a **backend-focused developer** with a strong interest in building scalable systems, automation, and thoughtfully designed products.
 
@@ -24,5 +24,4 @@ My journey into programming began with creating **Discord moderation bots**, whi
 
 I enjoy working at the intersection of **engineering, systems thinking, and design**, and I’m always exploring ways to build cleaner architectures and better developer experiences.
 
-🔗 GitHub: https://github.com/HemanthTenneti  
-🌐 Portfolio: https://10eti.me
+🔗 GitHub: https://github.com/HemanthTenneti
